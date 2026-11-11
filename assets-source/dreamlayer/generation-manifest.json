@@ -1,0 +1,198 @@
+{
+  "date": "2026-10-11",
+  "provider": "DreamLayer Agent API",
+  "quotedTotalCredits": 73.6,
+  "records": [
+    {
+      "character": "capybara",
+      "operation": "text_to_image",
+      "requestIdentity": "tubby-reference-v1-capybara",
+      "file": "references/capybara.png",
+      "quotedCredits": 1
+    },
+    {
+      "character": "shiba",
+      "operation": "text_to_image",
+      "requestIdentity": "tubby-reference-v1-shiba",
+      "file": "references/shiba.png",
+      "quotedCredits": 1
+    },
+    {
+      "character": "raccoon",
+      "operation": "text_to_image",
+      "requestIdentity": "tubby-reference-v1-raccoon",
+      "file": "references/raccoon.png",
+      "quotedCredits": 1
+    },
+    {
+      "character": "penguin",
+      "operation": "text_to_image",
+      "requestIdentity": "tubby-reference-v1-penguin",
+      "file": "references/penguin.png",
+      "quotedCredits": 1
+    },
+    {
+      "character": "capybara",
+      "operation": "sprite_sheet",
+      "action": "bathing",
+      "requestIdentity": "tubby-bathing-v1-capybara",
+      "bundle": "capybara-bathing.zip",
+      "frames": 7,
+      "frameSize": 256,
+      "quotedCredits": 5.8,
+      "keptBackgroundFrames": []
+    },
+    {
+      "character": "penguin",
+      "operation": "sprite_sheet",
+      "action": "bathing",
+      "requestIdentity": "tubby-bathing-v1-penguin",
+      "bundle": "penguin-bathing.zip",
+      "frames": 7,
+      "frameSize": 256,
+      "quotedCredits": 5.8,
+      "keptBackgroundFrames": []
+    },
+    {
+      "character": "penguin",
+      "operation": "sprite_sheet",
+      "action": "idle",
+      "requestIdentity": "tubby-idle-v1-penguin",
+      "bundle": "penguin-idle.zip",
+      "frames": 7,
+      "frameSize": 256,
+      "quotedCredits": 5.8,
+      "keptBackgroundFrames": []
+    },
+    {
+      "character": "raccoon",
+      "operation": "sprite_sheet",
+      "action": "idle",
+      "requestIdentity": "tubby-idle-v1-raccoon",
+      "bundle": "raccoon-idle.zip",
+      "frames": 7,
+      "frameSize": 256,
+      "quotedCredits": 5.8,
+      "keptBackgroundFrames": []
+    },
+    {
+      "character": "raccoon",
+      "operation": "sprite_sheet",
+      "action": "sleeping",
+      "requestIdentity": "tubby-sleeping-v1-raccoon",
+      "bundle": "raccoon-sleeping.zip",
+      "frames": 7,
+      "frameSize": 256,
+      "quotedCredits": 5.8,
+      "keptBackgroundFrames": []
+    },
+    {
+      "character": "shiba",
+      "operation": "sprite_sheet",
+      "action": "eating",
+      "requestIdentity": "tubby-eating-v1-shiba",
+      "bundle": "shiba-eating.zip",
+      "frames": 7,
+      "frameSize": 256,
+      "quotedCredits": 5.8,
+      "keptBackgroundFrames": []
+    },
+    {
+      "character": "capybara",
+      "operation": "sprite_sheet",
+      "action": "idle",
+      "requestIdentity": "tubby-idle-v1-capybara",
+      "bundle": "capybara-idle.zip",
+      "frames": 7,
+      "frameSize": 256,
+      "quotedCredits": 5.8,
+      "keptBackgroundFrames": []
+    },
+    {
+      "character": "shiba",
+      "operation": "sprite_sheet",
+      "action": "idle",
+      "requestIdentity": "tubby-idle-v1-shiba",
+      "bundle": "shiba-idle.zip",
+      "frames": 7,
+      "frameSize": 256,
+      "quotedCredits": 5.8,
+      "keptBackgroundFrames": []
+    },
+    {
+      "character": "penguin",
+      "operation": "sprite_sheet",
+      "action": "walk",
+      "requestIdentity": "tubby-walk-v1-penguin",
+      "bundle": "penguin-walk.zip",
+      "frames": 7,
+      "frameSize": 256,
+      "quotedCredits": 5.8,
+      "keptBackgroundFrames": []
+    },
+    {
+      "character": "capybara",
+      "operation": "sprite_sheet",
+      "action": "walk",
+      "requestIdentity": "tubby-walk-v1-capybara",
+      "bundle": "capybara-walk.zip",
+      "frames": 7,
+      "frameSize": 256,
+      "quotedCredits": 5.8,
+      "keptBackgroundFrames": []
+    },
+    {
+      "character": "raccoon",
+      "operation": "sprite_sheet",
+      "action": "walk",
+      "requestIdentity": "tubby-walk-v1-raccoon",
+      "bundle": "raccoon-walk.zip",
+      "frames": 7,
+      "frameSize": 256,
+      "quotedCredits": 5.8,
+      "keptBackgroundFrames": []
+    },
+    {
+      "character": "shiba",
+      "operation": "sprite_sheet",
+      "action": "walk",
+      "requestIdentity": "tubby-walk-v1-shiba",
+      "bundle": "shiba-walk.zip",
+      "frames": 7,
+      "frameSize": 256,
+      "quotedCredits": 5.8,
+      "keptBackgroundFrames": []
+    }
+  ],
+  "actualCreditsUsed": 73.6,
+  "remainingCreditsAfterGeneration": 26.4,
+  "repairs": [
+    {
+      "character": "capybara",
+      "action": "idle",
+      "revision": 2,
+      "requestIdentity": "tubby-idle-v2-capybara-fourlegs",
+      "quotedCredits": 5.8,
+      "reason": "Exactly four grounded legs; removed extra torso limbs",
+      "bundle": "capybara-idle.zip",
+      "bundleSha256": "17a9f32bea76da6071a63802d252f2b01746a623b6483764adddcb32bb146e64",
+      "executionId": "01f0a509-b76b-4029-94f0-a2c897dc478b",
+      "request": "Looping idle animation of this same cute paper-cut capybara facing right. It remains a natural quadruped standing on exactly FOUR legs throughout every frame: two front legs and two hind legs, all planted on the ground, as in the reference. Only subtle breathing and a slow blink. Keep the body silhouette, towel on head, colors and paper cutout style unchanged. No arms on the sides of the torso, no raised paws, no hands, no extra limbs, no walking, no rearing up. Locked camera and stationary feet. Plain white backdrop for transparent cutout."
+    },
+    {
+      "character": "shiba",
+      "action": "eating",
+      "revision": 2,
+      "requestIdentity": "tubby-eating-v2-shiba-groundbowl",
+      "quotedCredits": 5.8,
+      "reason": "Quadruped lowers head to eat from a bowl on the ground",
+      "bundle": "shiba-eating.zip",
+      "bundleSha256": "66b97fabbc812a40492eaac4e7b880b2fd4511a6fe09fef64e866c3f8486d7bb",
+      "executionId": "689842aa-2f66-460f-9216-726b10bf4b19",
+      "request": "Looping eating animation of this exact cute orange paper-cut Shiba Inu with teal bandana, facing right. The dog stays on exactly FOUR legs with all four paws planted on the ground. A small shallow bowl of food rests on the ground just in front of the front paws. Lower the head to the bowl and nibble the food directly with the mouth, with small chewing movements. The front paws remain on the ground and never hold food. Keep the orange fur, cream muzzle and belly, curled tail, teal bandana and paper-cut style unchanged. No human arms, no hands, no extra limbs, no standing upright, no paws raised to the mouth. Fixed camera, stationary body and bowl, plain white backdrop for transparent cutout."
+    }
+  ],
+  "repairQuotedTotalCredits": 11.6,
+  "actualCreditsUsedIncludingRepairs": 85.2,
+  "remainingCreditsAfterRepairs": 14.8
+}

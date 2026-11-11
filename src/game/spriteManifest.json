@@ -1,0 +1,206 @@
+{
+  "capybara-bathing": {
+    "count": 7,
+    "durations": [
+      710,
+      710,
+      700,
+      710,
+      710,
+      710,
+      790
+    ],
+    "cell": 256,
+    "keptBackground": [],
+    "displayScale": 1.3313,
+    "originX": 0.4941,
+    "originY": 0.7812
+  },
+  "penguin-bathing": {
+    "count": 7,
+    "durations": [
+      710,
+      710,
+      700,
+      710,
+      710,
+      710,
+      790
+    ],
+    "cell": 256,
+    "keptBackground": [],
+    "displayScale": 1.7379,
+    "originX": 0.5039,
+    "originY": 0.7734
+  },
+  "penguin-idle": {
+    "count": 7,
+    "durations": [
+      430,
+      430,
+      430,
+      420,
+      430,
+      430,
+      430
+    ],
+    "cell": 256,
+    "keptBackground": [],
+    "displayScale": 1.0161,
+    "originX": 0.5137,
+    "originY": 0.9922
+  },
+  "raccoon-idle": {
+    "count": 7,
+    "durations": [
+      420,
+      410,
+      420,
+      420,
+      410,
+      420,
+      420
+    ],
+    "cell": 256,
+    "keptBackground": [],
+    "displayScale": 0.86,
+    "originX": 0.4668,
+    "originY": 0.9922
+  },
+  "raccoon-sleeping": {
+    "count": 7,
+    "durations": [
+      710,
+      710,
+      700,
+      710,
+      710,
+      710,
+      790
+    ],
+    "cell": 256,
+    "keptBackground": [],
+    "displayScale": 1.2428,
+    "originX": 0.4805,
+    "originY": 0.8438
+  },
+  "shiba-eating": {
+    "count": 7,
+    "durations": [
+      710,
+      710,
+      700,
+      710,
+      710,
+      710,
+      790
+    ],
+    "cell": 256,
+    "keptBackground": [],
+    "displayScale": 1.6977,
+    "originX": 0.5117,
+    "originY": 0.75
+  },
+  "capybara-idle": {
+    "count": 7,
+    "durations": [
+      710,
+      710,
+      700,
+      710,
+      710,
+      710,
+      790
+    ],
+    "cell": 256,
+    "keptBackground": [],
+    "displayScale": 1.3478,
+    "originX": 0.502,
+    "originY": 0.7812
+  },
+  "shiba-idle": {
+    "count": 7,
+    "durations": [
+      400,
+      410,
+      400,
+      410,
+      400,
+      410,
+      400
+    ],
+    "cell": 256,
+    "keptBackground": [],
+    "displayScale": 1.0046,
+    "originX": 0.4336,
+    "originY": 0.9922
+  },
+  "penguin-walk": {
+    "count": 7,
+    "durations": [
+      230,
+      220,
+      230,
+      220,
+      230,
+      230,
+      220
+    ],
+    "cell": 256,
+    "keptBackground": [],
+    "displayScale": 1.0,
+    "originX": 0.5273,
+    "originY": 0.9922
+  },
+  "capybara-walk": {
+    "count": 7,
+    "durations": [
+      290,
+      290,
+      300,
+      290,
+      290,
+      290,
+      290
+    ],
+    "cell": 256,
+    "keptBackground": [],
+    "displayScale": 1.0,
+    "originX": 0.4316,
+    "originY": 0.9922
+  },
+  "raccoon-walk": {
+    "count": 7,
+    "durations": [
+      420,
+      410,
+      420,
+      420,
+      410,
+      420,
+      420
+    ],
+    "cell": 256,
+    "keptBackground": [],
+    "displayScale": 1.0,
+    "originX": 0.4277,
+    "originY": 0.9922
+  },
+  "shiba-walk": {
+    "count": 7,
+    "durations": [
+      290,
+      280,
+      290,
+      280,
+      290,
+      280,
+      290
+    ],
+    "cell": 256,
+    "keptBackground": [],
+    "displayScale": 1.0,
+    "originX": 0.4355,
+    "originY": 0.9922
+  }
+}

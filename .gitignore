@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.DS_Store
+*.local
+.sites/
+
+.dreamlayer-jobs/
+
+# Local credentials and developer environments
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.pyc
